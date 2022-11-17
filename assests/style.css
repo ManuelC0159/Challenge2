@@ -55,7 +55,7 @@ a{
 }
 
 /*Overview*/
-
+/*Past work section*/
 .past-work{
     max-width: fit-content;
     display: flex;
@@ -112,7 +112,7 @@ a{
     text-align: center;
     font-size: 18px;
 }
-
+/*contact info*/
 .contact, .about{
     margin-bottom: 50px;
     margin-top:50px;
@@ -135,7 +135,7 @@ a{
     margin-top: 10px;
     margin-left: 20px;
 }
-
+/*about me*/
 .about h4{
     margin-left:-150px;
 }
